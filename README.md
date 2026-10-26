@@ -1,7 +1,7 @@
 # Datatables Plugin
 
 The **Datatables** Plugin is for [Grav CMS](http://github.com/getgrav/grav). It provides two shortcodes to embed the awesome [DataTables](https://datatables.net) jQuery plugin (v1.10.16).     
-This version simply fixes the issues with https://github.com/finanalyst/grav-plugin-datatables
+**This version simply fixes the issues with https://github.com/finanalyst/grav-plugin-datatables**
 
 ## Installation
 
