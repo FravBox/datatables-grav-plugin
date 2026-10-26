@@ -164,8 +164,3 @@ However, it would be interesting to see whether there is any need to add plugins
 All the credit is due to the people at `https://datatables.net`.
 
 The version of DataTables is given in the heading.
-
-## To Do
-
-- [ ] Handle new versions of DataTables automatically.
-- [ ] Add DataTable plugin support.
